@@ -25,7 +25,7 @@ The model automatically extracts:
 
 ## 🚀 How to Use
 1. Clone this repository.
-2. Ensure your dataset is named `soil_moisture_data.csv` in the root directory.
+2. Ensure your dataset is named `soil_moisture_cleaned.csv` in the root directory.
 3. Install dependencies:
    ```bash
    pip install numpy pandas scikit-learn matplotlib
